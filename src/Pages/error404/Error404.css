@@ -1,0 +1,19 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+}
+.contenedor img{
+  width: 800px;
+  height: 600px;
+}
+.contenedor h1{
+  font-size: 50px;
+  text-align: center;
+}
+
+.spinner-border{
+  margin-left: 45%;
+}
