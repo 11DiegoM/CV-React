@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CV-React/static/css/main.4c133935.chunk.css",
+    "main.js": "/CV-React/static/js/main.4771f25e.chunk.js",
+    "main.js.map": "/CV-React/static/js/main.4771f25e.chunk.js.map",
+    "runtime-main.js": "/CV-React/static/js/runtime-main.3c0c6bd2.js",
+    "runtime-main.js.map": "/CV-React/static/js/runtime-main.3c0c6bd2.js.map",
+    "static/js/2.6b297604.chunk.js": "/CV-React/static/js/2.6b297604.chunk.js",
+    "static/js/2.6b297604.chunk.js.map": "/CV-React/static/js/2.6b297604.chunk.js.map",
+    "index.html": "/CV-React/index.html",
+    "static/css/main.4c133935.chunk.css.map": "/CV-React/static/css/main.4c133935.chunk.css.map",
+    "static/js/2.6b297604.chunk.js.LICENSE.txt": "/CV-React/static/js/2.6b297604.chunk.js.LICENSE.txt",
+    "static/media/miCara.db71bb9e.jpg": "/CV-React/static/media/miCara.db71bb9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c0c6bd2.js",
+    "static/js/2.6b297604.chunk.js",
+    "static/css/main.4c133935.chunk.css",
+    "static/js/main.4771f25e.chunk.js"
+  ]
+}
